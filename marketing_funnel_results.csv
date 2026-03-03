@@ -1,0 +1,10 @@
+metric,value
+overall_performance,"{""Total_Revenue"": 6383232.65, ""Total_Ad_Spend"": 2479813.73, ""Net_Profit"": 3903418.92, ""Overall_ROI_%"": 157.41, ""Total_Purchases"": 22876, ""Avg_Conversion_Rate"": 1.07}"
+best_channel_by_roi,Google
+best_campaign_by_revenue,SEO
+best_customer_segment,Premium
+best_device,Tablet
+best_region,North
+funnel_stage_counts,"{""Interest"": 215, ""Intent"": 212, ""Awareness"": 197, ""Consideration"": 192, ""Conversion"": 184}"
+channel_roi,"{""Email"": 413.98, ""Facebook"": 327.54, ""Google"": 549.08, ""Instagram"": 262.1, ""YouTube"": 400.39}"
+campaign_revenue,"{""Email Campaign"": 1222470.31, ""PPC Ads"": 1203523.34, ""Referral Program"": 1383514.01, ""SEO"": 1464653.94, ""Social Media"": 1109071.05}"
