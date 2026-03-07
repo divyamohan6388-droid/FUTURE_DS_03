@@ -7,7 +7,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4c8cbf?style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
-![Internship](https://img.shields.io/badge/Future%20Intern-Task%202-blueviolet?style=flat)
+![Internship](https://img.shields.io/badge/Future%20Intern-Task%203-blueviolet?style=flat)
 
 ---
 
